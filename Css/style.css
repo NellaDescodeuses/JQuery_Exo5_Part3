@@ -1,0 +1,12 @@
+#coloredDiv{
+    background-color: #4da7aa;
+    width: 90px;
+    height: 40px;
+    border-radius: 30%;
+    position: absolute;
+}
+#containerDiv{
+    border : 5px solid green;
+    width: 400px;
+    height: 400px;
+}
